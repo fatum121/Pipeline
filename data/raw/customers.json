@@ -1,0 +1,72 @@
+[
+    {
+        "customer_id": 12,
+        "name": "Anna Nowak",
+        "city": "Warszawa"
+    },
+    {
+        "customer_id": 17,
+        "name": "Piotr Kowalski",
+        "city": "Kraków"
+    },
+    {
+        "customer_id": 23,
+        "name": "Jan Kowalski",
+        "city": "Wrocław"
+    },
+    {
+        "customer_id": 31,
+        "name": "Maria Wiśniewska",
+        "city": "Poznań"
+    },
+    {
+        "customer_id": 45,
+        "name": "Tomasz Wójcik",
+        "city": "Gdańsk"
+    },
+    {
+        "customer_id": 56,
+        "name": "Katarzyna Kamińska",
+        "city": "Katowice"
+    },
+    {
+        "customer_id": 67,
+        "name": "Michał Lewandowski",
+        "city": "Łódź"
+    },
+    {
+        "customer_id": 78,
+        "name": "Agnieszka Zielińska",
+        "city": "Szczecin"
+    },
+    {
+        "customer_id": 89,
+        "name": "Paweł Szymański",
+        "city": "Lublin"
+    },
+    {
+        "customer_id": 90,
+        "name": "Karolina Woźniak",
+        "city": "Białystok"
+    },
+    {
+        "customer_id": "31",
+        "name": "Maria Wiśniewska",
+        "city": "poznan"
+    },
+    {
+        "customer_id": 91,
+        "name": "Robert Dąbrowski",
+        "city": null
+    },
+    {
+        "customer_id": 92,
+        "name": "Ewa Kozłowska",
+        "city": "WARSZAWA"
+    },
+    {
+        "customer_id": 93,
+        "name": "Adam Jankowski",
+        "city": "wroclaw"
+    }
+]
